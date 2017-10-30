@@ -1,5 +1,5 @@
 # aws-python-scripts
-This repository will include all of the scripts which I wrote for services in AWS
+This repository will include some of the scripts which I wrote for interacting with AWS to solve problems in my day to day job.
 
 All these scripts were written by me for work/personal projects in AWS.
 
