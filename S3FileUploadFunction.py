@@ -34,7 +34,7 @@ inputFile = args.File
 S3Bucket = args.S3
 S3Directory = args.Directory
 
-s3upload.copy_file_to_s3(inputFile, S3Bucket, S3Directory)
+S3FileUploadFunction.copy_file_to_s3(inputFile, S3Bucket, S3Directory)
 '''
 
 if __name__ == '__main__':
